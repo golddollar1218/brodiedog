@@ -1,5 +1,5 @@
 (() => {
-  const CA = "0xcomingsoon";
+  const CA = "0xe1d7cd9e530e14accb7d909dec3acbb8fe7b15c5";
   const copyBtn = document.getElementById("copy-ca");
   const caEl = document.getElementById("ca");
 
